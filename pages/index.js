@@ -18,7 +18,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <div className={styles.content}>
-          <ReactMarkdown children={data} />
+          <ReactMarkdown>{data}</ReactMarkdown>
         </div>
       </main>
 
