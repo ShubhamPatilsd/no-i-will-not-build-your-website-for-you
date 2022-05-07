@@ -26,7 +26,7 @@ Here are a couple of rules for deciding how much compensation you should get:
 
 Here is an example of a job you shouldn't take:
 
-![when I ask about money, the dude literally tels me that we will split shares in the future when it becomes famous, which is clearly a scam](https://cloud-635vvph8z-hack-club-bot.vercel.app/0image.png)
+![when I ask about money, the dude literally tells me that we will split shares in the future when it becomes famous, which is clearly a scam](https://cloud-635vvph8z-hack-club-bot.vercel.app/0image.png)
 
 Here, there are a couple of things that are wrong:
 
