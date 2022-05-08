@@ -8,7 +8,7 @@ All too often I will get someone asking me:
 
 ## Why Not?
 
-I used to say yes to these request a lot, before I quickly got fed up with how monotonous the work is. I lost a lot of time, which I would have used for projects that I truly cared about and that I really had an interest in, and I quickly started loathing the process of making an app or website.
+I used to say yes to these requests a lot, but I quickly got fed up with how monotonous the work is. I lost a lot of time, which I would have used for projects that I truly cared about and that I really had an interest in, but I quickly started loathing the process of making an app or website.
 
 Unless you love hating your work and spending hours on something that you don't want to work on, I would _highly_ suggest that you do **_NOT_** accept these offers. Unless they offer really good compensation for your time, it is just not worth it.
 
